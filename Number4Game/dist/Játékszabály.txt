@@ -1,0 +1,5 @@
+Lényeg:
+
+Ha rákattitasz egy mezőre, a saját és a körülötte lévő mezők értéke megnő eggyel.
+Az a játékos, aki 4-re növeli egy mező értékét, mezőnként 1 pontot kap.
+Ha már minden mező betelt, az győz, akinek több pontja van.
